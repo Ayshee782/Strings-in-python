@@ -6,3 +6,5 @@ c="every"
 d="one"
 e=b+c+d
 print(e)
+length=len(e)
+print(e)
